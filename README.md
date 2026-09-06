@@ -28,24 +28,3 @@
 ## Full-stack + AI
 
 <img src="./assets/ai-fullstack.svg" width="100%" alt="A visual map of Vuong Hieu's full-stack and AI toolkit: experience, platform, and intelligence" />
-
-## Selected work
-
-| Project | What I am exploring | Stack |
-| --- | --- | --- |
-| **HRM / ERP Platform** | RBAC · Payroll · Background jobs | `TypeScript` `Node.js` `MongoDB` |
-| **Marine Data Platform** | Crawlers · Normalize · Fallback sources | `Node.js` `MongoDB` `API Design` |
-| [**Eshop Ecommerce**](https://github.com/vgduchieu0602/Eshop-Ecommerce) | Commerce platform | `React` `Node.js` `Database` |
-| [**HoangNhuAI**](https://github.com/vgduchieu0602/HoangNhuAI) | AI workflows | `LLM APIs` `Agents` |
-
-## GitHub activity
-
-<img src="./assets/metrics.svg" width="100%" alt="Live GitHub metrics" />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
-    <img alt="GitHub contribution activity" src="./assets/github-snake.svg" width="100%">
-  </picture>
-</div>
