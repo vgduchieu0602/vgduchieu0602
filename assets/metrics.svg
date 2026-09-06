@@ -1,5 +1,102 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
-<rect width="900" height="250" rx="18" fill="#0d1117"/>
-<text x="450" y="120" fill="#58a6ff" text-anchor="middle" font-family="monospace" font-size="22" font-weight="700">LIVE METRICS INITIALIZING...</text>
-<text x="450" y="153" fill="#8b949e" text-anchor="middle" font-family="monospace" font-size="13">Run the GitHub Action once to render your real public stats.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="GitHub metrics for vgduchieu0602">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b3b75"/>
+    </linearGradient>
+
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2f81f7"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font: 700 21px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      fill: #f0f6fc;
+    }
+
+    .subtitle {
+      font: 500 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      fill: #8b949e;
+    }
+
+    .value {
+      font: 800 26px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      fill: #58a6ff;
+    }
+
+    .label {
+      font: 700 10px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      letter-spacing: 1.2px;
+      fill: #8b949e;
+    }
+
+    .meta {
+      font: 500 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      fill: #c9d1d9;
+    }
+
+    .pulse {
+      animation: pulse 2.2s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: .55; }
+      50% { opacity: 1; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="898" height="248" rx="18" fill="url(#bg)" stroke="#30363d"/>
+
+  <rect x="24" y="24" width="852" height="4" rx="2" fill="url(#stroke)" filter="url(#glow)"/>
+
+  <circle cx="52" cy="62" r="5" fill="#3fb950" class="pulse"/>
+  <text x="68" y="69" class="title">@vgduchieu0602 / LIVE ENGINEERING METRICS</text>
+  <text x="68" y="88" class="subtitle">generated automatically from GitHub public data</text>
+
+  
+      <g transform="translate(55, 105)">
+        <text class="value">34</text>
+        <text class="label" y="30">PUBLIC REPOS</text>
+      </g>
+    
+      <g transform="translate(260, 105)">
+        <text class="value">1</text>
+        <text class="label" y="30">FOLLOWERS</text>
+      </g>
+    
+      <g transform="translate(465, 105)">
+        <text class="value">0</text>
+        <text class="label" y="30">TOTAL STARS</text>
+      </g>
+    
+      <g transform="translate(670, 105)">
+        <text class="value">0</text>
+        <text class="label" y="30">TOTAL FORKS</text>
+      </g>
+    
+
+  <line x1="48" y1="172" x2="852" y2="172" stroke="#30363d"/>
+
+  <text x="52" y="203" class="meta">
+    TOP REPO LANGUAGES
+    <tspan fill="#58a6ff">  TypeScript · JavaScript · HTML · CSS</tspan>
+  </text>
+
+  <text x="52" y="226" class="subtitle">last render: 2026-09-06 UTC</text>
+
+  <text x="848" y="226" text-anchor="end" class="subtitle">GitHub Actions + Node.js</text>
 </svg>
