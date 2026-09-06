@@ -1,214 +1,51 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+V%C6%B0%C6%A1ng+Hi%E1%BA%BFu+%F0%9F%91%8B;Backend+Developer+%7C+Node.js+%2B+TypeScript;Building+systems%2C+crawlers+%26+AI-enabled+workflows;Clean+Architecture+%E2%80%A2+Automation+%E2%80%A2+DevOps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:172554,100:2563eb&height=190&section=header&text=Vuong%20Hieu&fontSize=52&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Building%20with%20AI&descAlignY=58&descSize=18" width="100%" alt="Vuong Hieu — Full-stack Developer building with AI" />
 
-<br/>
+<p>
+  <a href="https://github.com/vgduchieu0602"><img src="https://img.shields.io/badge/GitHub-vgduchieu0602-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vgduchieu0602&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-**Backend-focused Software Developer building practical systems with Node.js, TypeScript, databases, automation and AI.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-vgduchieu0602-181717?style=for-the-badge&logo=github)](https://github.com/vgduchieu0602)
-![Profile Views](https://komarev.com/ghpvc/?username=vgduchieu0602&style=for-the-badge&color=2f81f7)
+<p><b>Full-stack developer building web applications and AI-powered workflows.</b></p>
 
 </div>
 
----
-
-## ⚡ What I build
-
-I enjoy turning messy business problems into backend systems that are easier to operate, extend and reason about.
-
-```text
-Business Problem
-      ↓
-Domain / Use Cases
-      ↓
-Ports & Adapters
-      ↓
-API / Events / Jobs
-      ↓
-MongoDB • PostgreSQL • Redis
-      ↓
-Docker • VPS • Observability
-```
-
-My current focus is on **backend engineering, Clean/Hexagonal Architecture, distributed workflows, crawlers, automation, AI agents and MCP-style integrations**.
-
----
-
-## 🧠 Engineering focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Backend & Architecture
-
-- Node.js / TypeScript
-- Express / NestJS
-- REST APIs
-- Clean Architecture
-- Hexagonal / Ports & Adapters
-- Event-driven workflows
-- Authentication & Authorization
-- Background jobs & schedulers
-
-</td>
-<td width="50%" valign="top">
-
-### Data, Infra & AI
-
-- MongoDB / PostgreSQL
-- Redis / caching / rate limiting
-- Docker / Docker Compose
-- Nginx / PM2 / Linux VPS
-- Crawlers & data normalization
-- LLM APIs / streaming
-- AI workflows / MCP exploration
-- Monitoring & automation
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured systems
-
-### 🏢 HRM / ERP Backend — Private Case Study
-
-A modular HR management system designed around real HR workflows rather than CRUD screens.
-
-`Node.js` `TypeScript` `MongoDB` `JWT` `Clean Architecture` `RBAC`
-
-**Domains:** IAM · Employee · Attendance · Payroll · Performance · Notification · Settings
-
-**Engineering themes:** permission boundaries, payroll snapshots, attendance policies, background jobs, modular architecture and future ERP expansion.
-
----
-
-### 🚢 Marine Data Collection Platform — Private Case Study
-
-A multi-source vessel data pipeline designed to reduce dependency on paid marine APIs.
-
-```text
-Scheduler
-   ↓
-Multiple Sources
-   ↓
-Raw Data
-   ↓
-Normalize
-   ↓
-Canonical Vessel
-   ↓
-MongoDB
-   ↓
-Marine API
-```
-
-**Engineering themes:** fallback providers, source reliability, canonical data models, region-based scheduling, deduplication and historical snapshots.
-
----
-
-### 🛒 E-commerce Platform
-
-A full-stack commerce project exploring product, catalog and application architecture.
-
-[![Repository](https://img.shields.io/badge/View-Eshop--Ecommerce-238636?style=flat-square&logo=github)](https://github.com/vgduchieu0602/Eshop-Ecommerce)
-
----
-
-### 🤖 AI / Automation Experiments
-
-I also build smaller projects to experiment with AI, messaging, automation and product ideas.
-
-[![HoangNhuAI](https://img.shields.io/badge/HoangNhuAI-Repository-8A2BE2?style=flat-square&logo=github)](https://github.com/vgduchieu0602/HoangNhuAI)
-[![Message App](https://img.shields.io/badge/Message--App-Repository-2F81F7?style=flat-square&logo=github)](https://github.com/vgduchieu0602/Message-App)
-[![InsuranceHDI](https://img.shields.io/badge/InsuranceHDI-Repository-F59E0B?style=flat-square&logo=github)](https://github.com/vgduchieu0602/InsuranceHDI)
-
----
-
-## 🛠 Tech stack
+## Tech stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,mongodb,postgres,redis,docker,nginx,githubactions,git&perline=14" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Express, MongoDB, PostgreSQL, Redis, Docker, Nginx, GitHub Actions and Git" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-61dafb?style=for-the-badge&logo=react&logoColor=0d1117" alt="Frontend: React and Next.js" />
+<img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="Backend: Node.js and TypeScript" />
+<img src="https://img.shields.io/badge/AI-LLM%20APIs%20%7C%20Agents-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="AI: LLM APIs and agents" />
 
 </div>
 
----
+## Full-stack + AI
 
-## 📊 Live GitHub metrics
+<img src="./assets/ai-fullstack.svg" width="100%" alt="A visual map of Vuong Hieu's full-stack and AI toolkit: experience, platform, and intelligence" />
 
-<div align="center">
+## Selected work
 
-<!-- Generated by scripts/update-metrics.js -->
-<img src="./assets/metrics.svg" width="100%" alt="GitHub profile metrics" />
+| Project | What I am exploring | Stack |
+| --- | --- | --- |
+| **HRM / ERP Platform** | RBAC · Payroll · Background jobs | `TypeScript` `Node.js` `MongoDB` |
+| **Marine Data Platform** | Crawlers · Normalize · Fallback sources | `Node.js` `MongoDB` `API Design` |
+| [**Eshop Ecommerce**](https://github.com/vgduchieu0602/Eshop-Ecommerce) | Commerce platform | `React` `Node.js` `Database` |
+| [**HoangNhuAI**](https://github.com/vgduchieu0602/HoangNhuAI) | AI workflows | `LLM APIs` `Agents` |
 
-</div>
+## GitHub activity
 
-The card above is **generated by JavaScript inside GitHub Actions** and committed back to this repository automatically.
-
----
-
-## 🐍 Contribution mode: ON
+<img src="./assets/metrics.svg" width="100%" alt="Live GitHub metrics" />
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
-    <img alt="GitHub contribution snake animation" src="./assets/github-snake.svg">
+    <img alt="GitHub contribution activity" src="./assets/github-snake.svg" width="100%">
   </picture>
-</div>
-
----
-
-## 🧩 How I think about backend systems
-
-```ts
-type BackendSystem = {
-  businessProblem: "understood";
-  boundaries: "explicit";
-  domainLogic: "framework-independent";
-  dataFlow: "traceable";
-  failures: "expected";
-  observability: "built-in";
-  deployment: "repeatable";
-  architecture: "simple enough to change";
-};
-```
-
-> I care less about using the most technologies and more about understanding **why each technology exists in the system**.
-
----
-
-## 📈 Currently leveling up
-
-- Designing scalable Node.js backend systems
-- DSA & problem-solving fundamentals
-- Event-driven architecture
-- AI Engineering & AI Agents
-- MCP servers and tool-based assistants
-- Building reusable frontend/backend libraries
-- Product thinking: BA → PO → Engineering → Testing
-
----
-
-<div align="center">
-
-### Build systems. Understand trade-offs. Keep learning.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0D1117,100:2F81F7" width="100%" />
-
 </div>

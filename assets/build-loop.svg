@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title description">
+  <title id="title">A product delivery loop</title>
+  <desc id="description">Five connected steps: Understand, Shape, Build, Augment, and Improve.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#172554"/></linearGradient>
+    <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <style>
+      .number { font: 700 13px Arial, sans-serif; fill: #7dd3fc; }
+      .title { font: 700 17px Arial, sans-serif; fill: #f8fafc; }
+      .caption { font: 400 12px Arial, sans-serif; fill: #cbd5e1; }
+      .note { font: 700 11px Arial, sans-serif; letter-spacing: 1.8px; fill: #93c5fd; }
+    </style>
+  </defs>
+  <rect width="960" height="220" rx="22" fill="url(#bg)"/>
+  <text x="42" y="38" class="note">A REPEATABLE DELIVERY LOOP</text>
+  <path d="M136 121H235M327 121H426M518 121H617M709 121H808" stroke="url(#accent)" stroke-width="3"/>
+  <g transform="translate(42 76)">
+    <rect width="94" height="92" rx="14" fill="#0b2140" stroke="#0ea5e9"/>
+    <text x="16" y="25" class="number">01</text><text x="16" y="51" class="title">Understand</text><text x="16" y="71" class="caption">the workflow</text>
+  </g>
+  <g transform="translate(235 76)">
+    <rect width="92" height="92" rx="14" fill="#10213d" stroke="#2563eb"/>
+    <text x="16" y="25" class="number">02</text><text x="16" y="51" class="title">Shape</text><text x="16" y="71" class="caption">the experience</text>
+  </g>
+  <g transform="translate(426 76)">
+    <rect width="92" height="92" rx="14" fill="#132044" stroke="#4f46e5"/>
+    <text x="16" y="25" class="number">03</text><text x="16" y="51" class="title">Build</text><text x="16" y="71" class="caption">the platform</text>
+  </g>
+  <g transform="translate(617 76)">
+    <rect width="92" height="92" rx="14" fill="#1d1b4c" stroke="#7c3aed"/>
+    <text x="16" y="25" class="number">04</text><text x="16" y="51" class="title">Augment</text><text x="16" y="71" class="caption">with AI</text>
+  </g>
+  <g transform="translate(808 76)">
+    <rect width="110" height="92" rx="14" fill="#2e1065" stroke="#a855f7"/>
+    <text x="16" y="25" class="number">05</text><text x="16" y="51" class="title">Improve</text><text x="16" y="71" class="caption">from feedback</text>
+  </g>
+  <path d="M895 178c-16 27-72 30-103 7" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M795 179l-6 8 10 2" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

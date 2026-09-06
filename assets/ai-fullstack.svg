@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="370" viewBox="0 0 960 370" role="img" aria-labelledby="title description">
+  <title id="title">Full-stack and AI engineering map</title>
+  <desc id="description">Three connected columns: Experience, Platform, and Intelligence.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .eyebrow { font: 700 12px Arial, sans-serif; letter-spacing: 2px; fill: #93c5fd; }
+      .heading { font: 700 25px Arial, sans-serif; fill: #f8fafc; }
+      .body { font: 400 15px Arial, sans-serif; fill: #cbd5e1; }
+      .label { font: 700 13px Arial, sans-serif; fill: #e0f2fe; }
+      .small { font: 400 12px Arial, sans-serif; fill: #94a3b8; }
+    </style>
+  </defs>
+  <rect width="960" height="370" rx="22" fill="url(#background)"/>
+  <path d="M0 62H960M0 308H960" stroke="#334155" stroke-opacity=".55"/>
+  <text x="48" y="45" class="eyebrow">ENGINEERING DIRECTION</text>
+  <text x="912" y="45" text-anchor="end" class="small">PRODUCT IDEA → INTELLIGENT SOFTWARE</text>
+
+  <path d="M285 184H356M604 184H675" stroke="url(#line)" stroke-width="3" filter="url(#glow)"/>
+  <path d="M346 175l13 9-13 9M665 175l13 9-13 9" fill="none" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g transform="translate(48 96)">
+    <rect width="237" height="190" rx="16" fill="#0f1d35" stroke="#1d4ed8"/>
+    <circle cx="35" cy="37" r="18" fill="#1d4ed8"/>
+    <path d="M27 36h16M35 28v16" stroke="#e0f2fe" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="66" y="35" class="heading">Experience</text>
+    <text x="25" y="80" class="body">Interfaces people enjoy using.</text>
+    <rect x="25" y="105" width="86" height="29" rx="14.5" fill="#172554"/>
+    <text x="68" y="124" text-anchor="middle" class="label">React</text>
+    <rect x="119" y="105" width="90" height="29" rx="14.5" fill="#172554"/>
+    <text x="164" y="124" text-anchor="middle" class="label">Next.js</text>
+    <text x="25" y="162" class="small">Responsive UI · Product thinking</text>
+  </g>
+
+  <g transform="translate(356 96)">
+    <rect width="248" height="190" rx="16" fill="#0f1d35" stroke="#0ea5e9"/>
+    <circle cx="35" cy="37" r="18" fill="#0369a1"/>
+    <path d="M26 37h18M35 28v18" stroke="#e0f2fe" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="35" cy="37" r="5" fill="#0f1d35"/>
+    <text x="66" y="35" class="heading">Platform</text>
+    <text x="25" y="80" class="body">Systems built to evolve.</text>
+    <rect x="25" y="105" width="92" height="29" rx="14.5" fill="#082f49"/>
+    <text x="71" y="124" text-anchor="middle" class="label">Node.js</text>
+    <rect x="125" y="105" width="99" height="29" rx="14.5" fill="#082f49"/>
+    <text x="174" y="124" text-anchor="middle" class="label">Data + API</text>
+    <text x="25" y="162" class="small">Architecture · Automation · Cloud</text>
+  </g>
+
+  <g transform="translate(675 96)">
+    <rect width="237" height="190" rx="16" fill="#0f1d35" stroke="#8b5cf6"/>
+    <circle cx="35" cy="37" r="18" fill="#6d28d9"/>
+    <path d="M27 40c5-11 10 11 16 0M27 34c5-11 10 11 16 0" fill="none" stroke="#f5f3ff" stroke-width="2" stroke-linecap="round"/>
+    <text x="66" y="35" class="heading">Intelligence</text>
+    <text x="25" y="80" class="body">AI where it creates leverage.</text>
+    <rect x="25" y="105" width="91" height="29" rx="14.5" fill="#2e1065"/>
+    <text x="70" y="124" text-anchor="middle" class="label">LLM APIs</text>
+    <rect x="124" y="105" width="86" height="29" rx="14.5" fill="#2e1065"/>
+    <text x="167" y="124" text-anchor="middle" class="label">Agents</text>
+    <text x="25" y="162" class="small">Workflows · Tools · MCP</text>
+  </g>
+</svg>

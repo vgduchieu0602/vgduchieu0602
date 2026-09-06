@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-label="Contribution activity will animate after the profile workflow runs">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#172554"/></linearGradient>
+    <style>.label{font:700 13px Arial,sans-serif;letter-spacing:1.5px;fill:#e2e8f0}.note{font:400 13px Arial,sans-serif;fill:#94a3b8}</style>
+  </defs>
+  <rect width="960" height="160" rx="18" fill="url(#bg)"/>
+  <text x="35" y="40" class="label">CONTRIBUTION TRAIL</text>
+  <text x="35" y="64" class="note">The animated contribution trail is refreshed by GitHub Actions.</text>
+  <g transform="translate(35 87)" fill="#1e3a8a">
+    <rect x="0" y="0" width="17" height="17" rx="3"/><rect x="25" y="0" width="17" height="17" rx="3"/><rect x="50" y="0" width="17" height="17" rx="3"/><rect x="75" y="0" width="17" height="17" rx="3"/><rect x="100" y="0" width="17" height="17" rx="3"/><rect x="125" y="0" width="17" height="17" rx="3"/><rect x="150" y="0" width="17" height="17" rx="3"/><rect x="175" y="0" width="17" height="17" rx="3"/><rect x="200" y="0" width="17" height="17" rx="3"/><rect x="225" y="0" width="17" height="17" rx="3"/><rect x="250" y="0" width="17" height="17" rx="3"/><rect x="275" y="0" width="17" height="17" rx="3"/><rect x="300" y="0" width="17" height="17" rx="3"/><rect x="325" y="0" width="17" height="17" rx="3"/><rect x="350" y="0" width="17" height="17" rx="3"/><rect x="375" y="0" width="17" height="17" rx="3"/><rect x="400" y="0" width="17" height="17" rx="3"/><rect x="425" y="0" width="17" height="17" rx="3"/><rect x="450" y="0" width="17" height="17" rx="3"/><rect x="475" y="0" width="17" height="17" rx="3"/><rect x="500" y="0" width="17" height="17" rx="3"/><rect x="525" y="0" width="17" height="17" rx="3"/><rect x="550" y="0" width="17" height="17" rx="3"/><rect x="575" y="0" width="17" height="17" rx="3"/><rect x="600" y="0" width="17" height="17" rx="3"/><rect x="625" y="0" width="17" height="17" rx="3"/><rect x="650" y="0" width="17" height="17" rx="3"/><rect x="675" y="0" width="17" height="17" rx="3"/><rect x="700" y="0" width="17" height="17" rx="3"/><rect x="725" y="0" width="17" height="17" rx="3"/><rect x="750" y="0" width="17" height="17" rx="3"/><rect x="775" y="0" width="17" height="17" rx="3"/><rect x="800" y="0" width="17" height="17" rx="3"/><rect x="825" y="0" width="17" height="17" rx="3"/>
+  </g>
+  <path d="M48 126c90-31 124 22 209-2s130-32 210 0 146 29 218-7 130-18 217 8" fill="none" stroke="#38bdf8" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="902" cy="125" r="10" fill="#a78bfa"/>
+</svg>
